@@ -1,0 +1,268 @@
+[
+    {
+        "barcode": "ks",
+        "brand": "",
+        "category": {
+            "description": "Skincare, makeup, haircare, and personal hygiene products.",
+            "id": "25d784f5-6911-419b-a917-2faa1b75258d",
+            "image": "https://placehold.co/600x400/png?text=Beauty",
+            "name": "Beauty & Personal Care",
+            "slug": "beauty-personal-care"
+        },
+        "compareAtPrice": 222,
+        "costPrice": 2222,
+        "createdAt": "2026-03-20T17:50:38.367Z",
+        "description": "xxxxxxxx",
+        "featured": true,
+        "id": "e9c6c1bc-7dc5-4f7a-9d8c-e8cf89a06756",
+        "images": [
+            {
+                "content-disposition": "inline",
+                "content-type": "image/png",
+                "id": "c6c7897d-0127-4ab4-b6ba-abde340c6e17",
+                "key-version": 1,
+                "location-id": "28ce5e61-7fea-4015-923f-b4b655f67b09",
+                "path": "products/1773655259847-chat-chat-svgrepo-com.png",
+                "size": 68248,
+                "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/0/28ce5e61-7fea-4015-923f-b4b655f67b09?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi8wLzI4Y2U1ZTYxLTdmZWEtNDAxNS05MjNmLWI0YjY1NWY2N2IwOT9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=WlIhdmOnBO-82zq5HKQjhl5oa6jNQoAo4JMNWFuKVLkCe~Qnv5oxDoDOW92l-YljMIDF3LSLpARfjCs44YlU2zV68GTZeudiK-ccu8TAv2rGY7iVJgnQYcU9fPbOX2CgfUfAkcaU3gqM3PCK4ZBoweFcIvEhji7bse8PxmqXktu99sOISU92~e6wfwEp2sMQDukOI0ftdQ~lDGMpm6Uz0B-aZdrRD~sQzFJWfbTHmsI70623rKbXYAdviuTu44T2MbjGiYjUcLg6gEhK1jBjMtcEXtebliAMaCUfSe3vDzj8QdA54F8T0b4iwgt15aUoUK4tmAn71LDLaWump6mTmw&Key-Pair-Id=K2D8SOWYIPDBRT"
+            },
+            {
+                "content-disposition": "inline",
+                "content-type": "image/png",
+                "id": "312bfb93-d9a8-43d3-9270-eead952ea799",
+                "key-version": 1,
+                "location-id": "0d4f363b-4018-4de4-ad12-84fd08ce495d",
+                "path": "products/1773655429384-file-favourite-svgrepo-com.png",
+                "size": 75832,
+                "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/6/0d4f363b-4018-4de4-ad12-84fd08ce495d?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi82LzBkNGYzNjNiLTQwMTgtNGRlNC1hZDEyLTg0ZmQwOGNlNDk1ZD9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=xrvNweJ4rMU9ZkRIM~DkOMnzKIWytXuZfYAYgzaZ~EooMwK1jKSADB633t2OXJxN3A-gFAurm7V9cUsS-EyyS2nuG-GZBhakhhXxcO8IPfiPRFEMX3yvfmd1FJs06QNt~vkHnFLs1FE5KMWhQh4xbzsidDVNgAC6j5nsCsDrJ4u~Vq9vfGsI7vQYYQ5Wfnfs5spVEUP3Yzi9Jn~SN9eZh56MpU01nDFKJ64y7e5l5AjB1lVvqp7lgN9fLFjD1NsoMRHlaWabqze~-RVjExZj788kxlQyuA014UVY9OFg4FiDhbyFnCpgoR80XOiMmz8quaL5GxmcxHwwIXyfCzg2Gw&Key-Pair-Id=K2D8SOWYIPDBRT"
+            },
+            {
+                "content-disposition": "inline",
+                "content-type": "image/x-icon",
+                "id": "0e296009-44a5-4e1b-b220-a47601c2934d",
+                "key-version": 1,
+                "location-id": "819becdb-9e08-4b8c-827c-529dc0e155bc",
+                "path": "products/1773655642202-chat-chat-svgrepo-com.ico",
+                "size": 174595,
+                "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/5/819becdb-9e08-4b8c-827c-529dc0e155bc?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi81LzgxOWJlY2RiLTllMDgtNGI4Yy04MjdjLTUyOWRjMGUxNTViYz9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=OkQ3x0UwtVDDllSqf2lU~kaKwCFkzcyuz6QsSIvNMS0gCUkj20ZnCJvidPbK1KPNucfmEF794usT5zZIgaykWKJ4TA8ycvWK8oilw6UOh-kOWD3FOrlJtxVSwt~W4neimqYqHRo8vmnK06a93uhsrnR-BdzdkZLcQ-HfT3opA6uYvj6AYQyA0xTUmOMyL-SMlXmAXOjeWbe7GDwDu8y3yk1t1VtwsceBChMuysvE4EwPElSeQjEtebD5RuAKN7jBjdoF3tTwZq-dlTekXcg0RBUk3-wff69vFKCe66Z8FRvYRZDY3jtKGlsUrs42rptVGQmTKxkVc6ADpJjWf~8LLg&Key-Pair-Id=K2D8SOWYIPDBRT"
+            }
+        ],
+        "length": 323,
+        "metaDescription": "",
+        "metaTitle": "",
+        "name": "xxxxxxxx",
+        "price": 111,
+        "shortDescription": "xxxxxxxx",
+        "sku": "32-sh",
+        "slug": "xxxxxxxx",
+        "status": "active",
+        "stock": 222,
+        "tags": [
+            {
+                "id": "a24acc8c-8ec8-4915-b956-c52898c20e92",
+                "name": "jshs"
+            },
+            {
+                "id": "4e1bea88-4527-4c4f-8097-3df19ae38b77",
+                "name": "hshh"
+            },
+            {
+                "id": "58143b7c-8e5b-447c-979c-d1354028d531",
+                "name": "hshhs"
+            },
+            {
+                "id": "e5032cca-93bf-447f-8319-1fc3dc867d77",
+                "name": "hhhs"
+            }
+        ],
+        "taxClass": "2222",
+        "thumbnail": {
+            "content-disposition": "inline",
+            "content-type": "image/jpeg",
+            "id": "790eb75b-0159-4a22-8d1a-3cea2535d038",
+            "key-version": 1,
+            "location-id": "64ed39de-5133-4548-9d85-435df0fa0338",
+            "path": "products/1773267290997-36280.jpg",
+            "size": 94309,
+            "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/8/64ed39de-5133-4548-9d85-435df0fa0338?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi84LzY0ZWQzOWRlLTUxMzMtNDU0OC05ZDg1LTQzNWRmMGZhMDMzOD9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=a7pjS1-fCOxAgM5AE6oXHcF5BJIEiCqXSupt2VFfkFjj3aegp85vtkwJ-D--1IPUaVzM3rR6Sbgmjo60IrKkAPLcoHhMnPl6rboU0WfbYspL7F6xowa5dHR7p71W7RFOX72sOecirOEzyQZUwAOCo9t14i3Gsi4gdbgzj7A6--eCbk9fXNqsMNwwpsj307Jsd4A2mwJkTI6Fka5f7wq9LTQuP7WDkdHya6yyRfqC73XxA1i-lQ47uzXmRew51dAyM7fBiy85tQ4c80h0GDaw1RJmm6-8fhU75gojzxbkAlskViGAxSKpBZW0MUXjT4nHbkYnDlOgbsWE6Qbpv60VBA&Key-Pair-Id=K2D8SOWYIPDBRT"
+        },
+        "type": "simple",
+        "updatedAt": "2026-03-20T17:50:38.367Z",
+        "weight": 23,
+        "width": 323
+    },
+    {
+        "barcode": "HSBSHSU",
+        "brand": "",
+        "category": {
+            "description": "Clothing, shoes, and accessories for men, women, and children.",
+            "id": "eddd142f-fae2-48c3-8e90-03f387a52d77",
+            "image": "https://placehold.co/600x400/png?text=Fashion",
+            "name": "Fashion & Apparel",
+            "slug": "fashion-apparel"
+        },
+        "compareAtPrice": 22229,
+        "costPrice": 828,
+        "createdAt": "2026-03-20T17:45:15.493Z",
+        "description": "Demo Product",
+        "featured": true,
+        "id": "875982ee-ca24-4085-9172-5eafd34a003f",
+        "images": [
+            {
+                "content-disposition": "inline",
+                "content-type": "image/png",
+                "id": "021ccd84-42a3-42b7-b616-8ff0a2f84b52",
+                "key-version": 1,
+                "location-id": "2c69360c-67b2-4d45-b6b8-c5a1d1bcf03c",
+                "path": "products/1773255212035-2023335116004134912.png",
+                "size": 231023,
+                "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/4/2c69360c-67b2-4d45-b6b8-c5a1d1bcf03c?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi80LzJjNjkzNjBjLTY3YjItNGQ0NS1iNmI4LWM1YTFkMWJjZjAzYz9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=NunCnEg8mXK~HcTL~7ENciuvqSTDf6G3lyexa~v6HrQlAzlkCKazjJUkWoZIOgFH94N7it~iMSohNcaobw0QdD2JefI2dU8Yup-mOEV3LHkw2SxcFZAMIyOI5fmisKjZ6Q5Af~CpyB-Z7jAkYK4RpSDexwbSnBHFw6B0MngzgvZsIgZwfCB67xUC8H8Ld9sOFTnSpwM5TLDzUsr0ErMRNaxzSH3HJjPMj9S1FUAMIpo446Lgc2ibyfl6bgBqfM6yMXXh3lShPf1fN0BM9HdUYU64LcEBB~5NZrDkqvix6ACA9kRucxXI8OlVnfcvFumYz5MKWmkbVji8Z6EkhdA~2g&Key-Pair-Id=K2D8SOWYIPDBRT"
+            },
+            {
+                "content-disposition": "inline",
+                "content-type": "image/png",
+                "id": "6b5b4162-eca6-4bdf-9350-2df66777104e",
+                "key-version": 1,
+                "location-id": "df6ceb8d-c1df-47b8-8414-fa8d8ebeb4ce",
+                "path": "products/1773255213434-2023335943129272320.png",
+                "size": 148228,
+                "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/9/df6ceb8d-c1df-47b8-8414-fa8d8ebeb4ce?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi85L2RmNmNlYjhkLWMxZGYtNDdiOC04NDE0LWZhOGQ4ZWJlYjRjZT9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=ImP2YlBk79eMmBv-BigOj1ATBgvKNl3FUpvPgsNrkItCSCej0sNu~JeAq92NOjOC~mfzdCf1sB12A21NqJm2fzusAXZJIY9gbMZKtEdDiw1dskiZFECGjfP-klj8Xsl0PU7KSibLo4AlBreEbcBZwyrq3hBQZjxJCHWv5njtQliHau8pGrfFYoJUPnoFQ6vYjXufG89AkkmJCmZf8f3X5QcXnA0V8NVbExKtmTsda~BjMEqmYxWq5974gHlHc~SZTA3imaRV5J4XghPWuwOJV9EneufG151HMX0Coiy9Le3k3MuJxvFBZJ7BVgY8Qb63HEsppdw56ZPvi9FRJxQm9A&Key-Pair-Id=K2D8SOWYIPDBRT"
+            },
+            {
+                "content-disposition": "inline",
+                "content-type": "image/png",
+                "id": "0499ca85-9b40-403e-8e99-8724904ae3d6",
+                "key-version": 1,
+                "location-id": "5f62d212-fa96-4a03-89c3-74a29f06a0c3",
+                "path": "products/1773255214837-2023336355274166272.png",
+                "size": 144127,
+                "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/1/5f62d212-fa96-4a03-89c3-74a29f06a0c3?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi8xLzVmNjJkMjEyLWZhOTYtNGEwMy04OWMzLTc0YTI5ZjA2YTBjMz9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=mcDlPhc8kg963dWOuYHd2teGR7tajJXBznzv01-xUIoQcTQiExQGZjmkad4aqnkzAOPALzt2EzpPc9yFu8L02TEepM31d7iQDVFQoPxvAob068jxltnHUg~l3Qup2XDs7JJeQuCZRVraB6mc-3~XhtH2VOOMWgSY5tFrk06slgm8u1XSVweSYiKuUjPk5JPDjkzmZpZiIbm~aEiz8ytECgSY0eHrsP05IrdF2QVTfTqqV2IbaQwtAIMfJXE1K1d4o6TY37AcuXn3fxo-62HJJGSJtIH1OlyUl-iOCJ8qSqL1H5EEbfkohs7Wm18CfHlBlOF7Hy9HD1LlNBfxkJgwuw&Key-Pair-Id=K2D8SOWYIPDBRT"
+            },
+            {
+                "content-disposition": "inline",
+                "content-type": "image/png",
+                "id": "271ec296-fc35-4962-9ff5-4d494ec414f9",
+                "key-version": 1,
+                "location-id": "8c42cc93-0c58-46bb-bb99-b892ef92cba4",
+                "path": "products/1773255216118-2023337022122364928.png",
+                "size": 175305,
+                "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/6/8c42cc93-0c58-46bb-bb99-b892ef92cba4?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi82LzhjNDJjYzkzLTBjNTgtNDZiYi1iYjk5LWI4OTJlZjkyY2JhND9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=ZXb0eDFcd-oPg~k2ZOKeGIoT~P8cJv4Up149V~KBl~gWr37vD6-X5fn6xh54crKr5~1D14AzcTCkiTGXcYMfl~hvvhAo7DnUUKo839OY5La5fOBI6qW~YwYoNOoh20tLsQtX6A~rGT9wlAMGFKOR6cZARjqfAJ4OrLkLxRPG42pkNl6CdX6klGfRAVsK0wzJZwx6MzgmiIsfIkNBciTIt58XF5xjcGha48d81s-9MWabuPOsJbs2UiJ3rUGFp2N00EOjS7soFyldRpMAn1Ss0VaxDGn-NJC9rdfLpg1Xblm4jUowvq-ZmtRkcuaKCmxteKkSu56sm2LYghHN0iqaNQ&Key-Pair-Id=K2D8SOWYIPDBRT"
+            }
+        ],
+        "length": 73627,
+        "metaDescription": "",
+        "metaTitle": "",
+        "name": "Demo Product",
+        "price": 222,
+        "shortDescription": "Demo Product",
+        "sku": "hai-ahsgws-ssh",
+        "slug": "demo-product",
+        "status": "archived",
+        "stock": 737,
+        "tags": [],
+        "taxClass": "Stander",
+        "thumbnail": {
+            "content-disposition": "inline",
+            "content-type": "image/png",
+            "id": "0499ca85-9b40-403e-8e99-8724904ae3d6",
+            "key-version": 1,
+            "location-id": "5f62d212-fa96-4a03-89c3-74a29f06a0c3",
+            "path": "products/1773255214837-2023336355274166272.png",
+            "size": 144127,
+            "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/1/5f62d212-fa96-4a03-89c3-74a29f06a0c3?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi8xLzVmNjJkMjEyLWZhOTYtNGEwMy04OWMzLTc0YTI5ZjA2YTBjMz9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=mcDlPhc8kg963dWOuYHd2teGR7tajJXBznzv01-xUIoQcTQiExQGZjmkad4aqnkzAOPALzt2EzpPc9yFu8L02TEepM31d7iQDVFQoPxvAob068jxltnHUg~l3Qup2XDs7JJeQuCZRVraB6mc-3~XhtH2VOOMWgSY5tFrk06slgm8u1XSVweSYiKuUjPk5JPDjkzmZpZiIbm~aEiz8ytECgSY0eHrsP05IrdF2QVTfTqqV2IbaQwtAIMfJXE1K1d4o6TY37AcuXn3fxo-62HJJGSJtIH1OlyUl-iOCJ8qSqL1H5EEbfkohs7Wm18CfHlBlOF7Hy9HD1LlNBfxkJgwuw&Key-Pair-Id=K2D8SOWYIPDBRT"
+        },
+        "type": "simple",
+        "updatedAt": "2026-03-20T17:45:15.493Z",
+        "weight": 726,
+        "width": 7362
+    },
+    {
+        "barcode": "njkxs ",
+        "brand": "",
+        "category": {
+            "description": "Equipment and gear for sports, fitness, and outdoor activities.",
+            "id": "1d032e22-6009-4cbb-9425-337b944da3dd",
+            "image": "https://placehold.co/600x400/png?text=Sports",
+            "name": "Sports & Outdoors",
+            "slug": "sports-outdoors"
+        },
+        "compareAtPrice": 8267,
+        "costPrice": 8267,
+        "createdAt": "2026-03-16T12:57:03.036Z",
+        "description": "\\dwdiu x",
+        "featured": true,
+        "height": 0,
+        "id": "3712685d-b248-4c9a-a147-06b0a0b3f067",
+        "images": [
+            {
+                "content-disposition": "inline",
+                "content-type": "image/png",
+                "id": "582ce280-78b0-463c-bb32-6f1b27f767c8",
+                "key-version": 1,
+                "location-id": "38815764-2a69-44e7-8c56-e9e44ef1321e",
+                "path": "products/1773255216797-2023337291191160832.png",
+                "size": 190403,
+                "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/0/38815764-2a69-44e7-8c56-e9e44ef1321e?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi8wLzM4ODE1NzY0LTJhNjktNDRlNy04YzU2LWU5ZTQ0ZWYxMzIxZT9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=LBrWVRrWpB4f2Kl~RFdQI4s00iU2nE2EUfixT5rjr6gYegan48dcIyhR9NaMOs65iFA2BcsJ0OS0IxkSYLParjXNnpx43OOossiVwsUASMkuUc1jTzYBjo-hixddSgfskxQq4guOe7ZBAmsiXajhyxxUa2xrLjtj9ZX7PsRs8EXQW2R2~mJcYYEtp9IjUkaRauDlKokARQAgRQm~phS-mTelLcU88QdhJiHKGNzICm5TnnJXqe4MvyCHdUTDPZT2Uw~qmqhMQO6KsOnSoQrbirxWQjYykkGu-S-ansDyq-FNVtqJGa3TkRQld3yidWA5MyS4UVBQCvj3PaZR9rMFWQ&Key-Pair-Id=K2D8SOWYIPDBRT"
+            },
+            {
+                "content-disposition": "inline",
+                "content-type": "image/jpeg",
+                "id": "cd4a18f4-84ed-4e63-91a9-524f6ae97666",
+                "key-version": 1,
+                "location-id": "a56e6bad-626e-4f30-8e25-da6827d5ed62",
+                "path": "products/1773267286767-36298.jpg",
+                "size": 241114,
+                "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/2/a56e6bad-626e-4f30-8e25-da6827d5ed62?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi8yL2E1NmU2YmFkLTYyNmUtNGYzMC04ZTI1LWRhNjgyN2Q1ZWQ2Mj9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=qbVu1oCdnWILi-WSQm2ED8zwn17LtSSUtjto4Oc0MnyvqG7w7qRvUtk2uaMTNSIQpYw5l0l8RBngKXwImxro5Lgbw7LjgXq8OUVVAmgbzKUAzQXCipROF~RFc~porekE7WS8EFezdh0jzF1BOhCpbkDmHDYOzMMVOvU2mw-tFMNQEk-qsel~3fv-SrAKP4MLFC49k1Q~zzQt9ZK1CDvxGAbltydanYj5loF0LRkMdWR1M0NxLF6dz6dT1EhH4VYegeow39UTUDPE2F8B6NTvpogCFmGAb66f01v6RUZywn3Z70tROGzOyr0hvVUbUlIJfw8Tmr4hwVvzZ~cCqA3aLw&Key-Pair-Id=K2D8SOWYIPDBRT"
+            },
+            {
+                "content-disposition": "inline",
+                "content-type": "image/jpeg",
+                "id": "6c0ee2c2-a630-47db-afe5-115bb6063d53",
+                "key-version": 1,
+                "location-id": "868d9634-c669-4af9-af18-0a995fbeecfc",
+                "path": "products/1773570683316-36758.jpg",
+                "size": 266172,
+                "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/0/868d9634-c669-4af9-af18-0a995fbeecfc?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi8wLzg2OGQ5NjM0LWM2NjktNGFmOS1hZjE4LTBhOTk1ZmJlZWNmYz9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=yyS0W1kvmE4GKQR24pDxPsgh-MXop~67G5LTulRY6xqhAeSOdSWhVIJuGek5zfrAlDxpBNpWfTPidtAZPNr-eV7Dlsb744Z5qNIhb2nQ5PtLgODIMgbkCSKhpnnSX-OHbtZYcID1~LrRwCEmvlbyzK-soRPb-CbbcYpoZIFoMa3bCu8x8nOvSeCXy11gFPlfzrNKuym0~RqVXZZ-r7gxVS~oWRXymuQ0io2WR1UR-sJMOIA7ZxObJyjJZvrK0bYHG0Yt37XHGaeHYjepu0a3T6GLgg2f~rrz4DSZ~hH0jNRKKCZq~MVF2pd4NxoPldK289Pfn~p8dZYVsD1fZYdHug&Key-Pair-Id=K2D8SOWYIPDBRT"
+            }
+        ],
+        "length": 0,
+        "metaDescription": "",
+        "metaTitle": "",
+        "name": "uwydx dwyqu",
+        "price": 72668,
+        "shortDescription": "uix wd",
+        "sku": "jsdhy",
+        "slug": "uwydx-dwyqu",
+        "status": "archived",
+        "stock": 878,
+        "tags": [
+            {
+                "id": "43447dcb-9e33-4fd1-97fe-719bf234f24b",
+                "name": "uhbdxw"
+            },
+            {
+                "id": "b78b1934-0062-436e-9d7d-43e596475144",
+                "name": "ic eewdew"
+            },
+            {
+                "id": "56ee16ab-0f22-4924-b4fd-a23c1cba06af",
+                "name": "due ncwe"
+            }
+        ],
+        "taxClass": "",
+        "thumbnail": {
+            "content-disposition": "inline",
+            "content-type": "image/jpeg",
+            "id": "1c47a02f-a39d-47a9-8702-7a657382f0f3",
+            "key-version": 1,
+            "location-id": "22b4435e-b52f-47c2-b026-b5245e7ba56f",
+            "path": "products/1773570679138-36827.jpg",
+            "size": 183646,
+            "url": "https://files.instantdb.com/54846a19-b581-4c9b-a22e-618f8c2ffe26/6/22b4435e-b52f-47c2-b026-b5245e7ba56f?response-cache-control=public%2C%20max-age%3D86400%2C%20immutable&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9maWxlcy5pbnN0YW50ZGIuY29tLzU0ODQ2YTE5LWI1ODEtNGM5Yi1hMjJlLTYxOGY4YzJmZmUyNi82LzIyYjQ0MzVlLWI1MmYtNDdjMi1iMDI2LWI1MjQ1ZTdiYTU2Zj9yZXNwb25zZS1jYWNoZS1jb250cm9sPXB1YmxpYyUyQyUyMG1heC1hZ2UlM0Q4NjQwMCUyQyUyMGltbXV0YWJsZSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDc0MjQwMH19fV19&Signature=Bp6v7tnTtv0BZfebjs-6G~UACBNvxOZdu~SRJAaKio7i5h6c-b~Cfb4H9b5vHK-ETovteyHTVDLXsVapGlWZ8V-bt31tE7Et15VN5uviCNzqfFfr9Ms1D61ZMv6hbHw87i4HoNI5t5tQrsRt-pWXlG6fxTnXUpwKCX8fUHoi24BaPGbryEyCEeHj67~STBACebBchFDMzanR0LTgtu9yYMhchpnR-P6fJNJeEaAyzM12X6LeSR~mSQd4oe29P4DuqpcySSkn4IA9ueDsoqhDm1x~S47KEZtfwti08qQ51PHV8gFoU3M3v40jASZv4ykH6K8OdiOFGuRPQSEI1AC0Xg&Key-Pair-Id=K2D8SOWYIPDBRT"
+        },
+        "type": "",
+        "updatedAt": "2026-03-16T12:57:03.036Z",
+        "weight": 897,
+        "width": 0
+    }
+]
